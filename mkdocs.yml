@@ -1,0 +1,28 @@
+site_name: Eletromag
+nav:
+    - Home: index.md
+    - Campos Vetoriais: camposvetoriais.md
+    - Divergente de um Campo Vetorial: divergente.md
+    - Campo Magnético: campomag.md
+    - Indução Eletromagnética: inducao.md
+    - Indutância: indutancia.md
+    - Indutância Mútua: indutanciamut.md
+    - Lei de Ampère: leiampere.md
+    - Rotacional de um campo: rotacional.md
+    - Circuitos Magnéticos: circuitosmag.md
+    - Ondulatória: ondulatoria.md
+    - Efeito Doppler: doppler.md
+    - Extra: extra.md
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
