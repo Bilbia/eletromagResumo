@@ -35,6 +35,8 @@ Aplicando a lei de Ampere-Maxwell (quarta lei de Maxwell), temos que:
 
 $B=\frac{\mu\cdot N\cdot i}{\ell}$
 
+Onde $\mu$ é a permeabilidade magnética do bixo metálico
+
 Portanto os fluxos por espira são:
 
 $\phi_1 = \frac{\mu\cdot N_1 \cdot i_1}{\ell}\cdot A$<br><br>
@@ -53,4 +55,12 @@ $M = \sqrt{L_1 \cdot L_2}$
 
 Aí com isso a gente chega naquelas igualdades com e lá em cima. 
 
-Aí vem todo um negócio do transformador monofásico mas eu tô com preguiça de escrever então tá tudo lá na aula 6
+
+## FEM
+
+Isso aqui tem um pouco a ver com os bago de transformador monofásico, que eu tava com preguiça de escrever antes, mas vamo lá.
+
+Aparentemente quando temos duas bobinas e uma corrente que varia no tempo, a FEM (Força eletromotriz) induzida é o produto entre a indutância mútua e a taxa de variação temporal de corrente:
+
+$Fem = M\cdot taxa temp$
+

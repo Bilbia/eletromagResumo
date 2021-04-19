@@ -7,16 +7,13 @@ $\phi_{B} = \oint \vec{B} \cdot \hat{n} dA = BA$
 No caso de uma bobina chata de N espiras, temos:
 $N\cdot \oint \vec{B} \cdot \hat{n} dA = NBA$
 
-No caso de uma bobina chata de N espiras, temos:
-$N\cdot \oint \vec{B} \cdot \hat{n} dA = NBA$
-
 Com B uniforme na área 
 
 Em uma bobina com N voltas e área A girando loucamente com velocidade constante w, <br>
 ![image.png](img/img11.png) <br>
 temos: <br><br>
 $\phi_{0} = \int \vec{B}\cdot\vec{n}dA$<br><br>
-$ \phi_{0} = \int\vec{B}\cos(\alpha) dA = BA\cdot\cos(\alpha)$<br><br>
+$\phi_{0} = \int\vec{B}\cos(\alpha) dA = BA\cdot\cos(\alpha)$<br><br>
 $\phi_{0} = BAcos(\frac{\pi}{2} - wt)=BAsen(wt)$<br><br>
 $\frac{d\phi_{0}}{dt} = BAwcos(wt)$
 

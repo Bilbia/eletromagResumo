@@ -37,9 +37,9 @@ Onde L é a indutância do indutor. Portanto temos:
 
 $U_{f} = R\cdot i + L\frac{di}{dt}$
 
-Quando a tensão e a corrente no indutor são representados por fasores complexos, a razão entre eles é o que chamamos de **reatância**. No indutos, essa reatância se dá:
+Quando a tensão e a corrente no indutor são representados por fasores complexos, a razão entre eles é o que chamamos de **reatância**. No indutor, essa reatância se dá:
 
-$\dot{X_L}=\frac{\dot{V_{L}}}{\dot{I}} $<br><br>
+$\dot{X_L}=\frac{\dot{V_{L}}}{\dot{I}}$<br><br>
 $\dot{X_L}= jLw [\Omega]$<br><br>
 $\dot{I} = \frac{\dot{U_F}}{\dot{X_L}}$
 
@@ -52,4 +52,10 @@ Para fazer esses cálculos com números complexos fasoriais, pode usar o noteboo
 Vale também lembrar que uma bobina pode ser modelada por um circuito RL, como o de cima, sendo R a resistência total do fio que a constitui e L a indutância da bobina. Assim, o modelo elétrico fica:
 
 ![image.png](img/img16.png) <br>
+
+## Energia acumulada no indutor
+
+Um negócio que eu só descobri também na parte nova da aula do Hage é que tem uma fórmula pra calcular a energia armazenada no indutor:
+
+$E = \frac{Li^2}{2}$
 

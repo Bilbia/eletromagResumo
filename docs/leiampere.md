@@ -35,7 +35,7 @@ $\oint_a \vec{B}\cdot d\vec{s} = \mu_0\cdot(2i-i) = \mu_0\cdot i$<br><br>
 $\oint_a \vec{B}\cdot d\vec{s} = \mu_0\cdot(i-i) = 0$<br><br>
 $\oint_a \vec{B}\cdot d\vec{s} = -\mu_0\cdot i$<br><br>
 $\oint_a \vec{B}\cdot d\vec{s} = 2\mu_0\cdot$<br><br>
-$ d>a=c>b$
+$d>a=c>b$
 
 (Esse foi o único momento da minha vida que eu pensei "olha que legal eu consegui fazer")(Mas não se preocupa que doppler é tão fácil que dá vontade de chorar e abraçar o Carareto)
 
